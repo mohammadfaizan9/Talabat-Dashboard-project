@@ -17,15 +17,15 @@ Power BI – Dashboard creation & visualization
 Excel – Data cleaning and preprocessing
 
 # Key Metrics
--Total Orders: 10K
+Total Orders: 10K
 
--Average Delivery Time: 37.24 mins
+Average Delivery Time: 37.24 mins
 
--Discount Utilization: 50.08%
+Discount Utilization: 50.08%
 
--Customer Satisfaction: 3.01 / 5
+Customer Satisfaction: 3.01 / 5
 
--Average Order Value: 110.05
+Average Order Value: 110.05
 
 # Insights
 A small group of restaurants contributes to the majority of orders
