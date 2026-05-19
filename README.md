@@ -7,20 +7,20 @@ The dashboard provides insights into customer behavior, restaurant performance, 
  # Problem Statement 
  Food delivery platforms generate large amounts of data, but without proper analysis, it’s difficult to extract actionable insights.
 This project aims to:
-Track performance metrics
-Identify inefficiencies
-Support data-driven business decisions
+-Track performance metrics
+-Identify inefficiencies
+-Support data-driven business decisions
 
 # Tools Used 
-Power BI – Dashboard creation & visualization
-Excel – Data cleaning and preprocessing
+-Power BI – Dashboard creation & visualization
+-Excel – Data cleaning and preprocessing
 
 # Key Metrics
-Total Orders: 10K+
-Average Delivery Time: 37.24 mins
-Discount Utilization: 50.08%
-Customer Satisfaction: 3.01 / 5
-Average Order Value: 110.05
+-Total Orders: 10K+
+-Average Delivery Time: 37.24 mins
+-Discount Utilization: 50.08%
+-Customer Satisfaction: 3.01 / 5
+-Average Order Value: 110.05
 
 # Insights
 A small group of restaurants contributes to the majority of orders
