@@ -13,10 +13,12 @@ This project aims to:
 
 # Tools Used 
 -Power BI – Dashboard creation & visualization
+
 -Excel – Data cleaning and preprocessing
 
 # Key Metrics
 -Total Orders: 10K+
+
 -Average Delivery Time: 37.24 mins
 -Discount Utilization: 50.08%
 -Customer Satisfaction: 3.01 / 5
