@@ -12,12 +12,12 @@ This project aims to:
 -Support data-driven business decisions
 
 # Tools Used 
--Power BI – Dashboard creation & visualization
+Power BI – Dashboard creation & visualization
 
--Excel – Data cleaning and preprocessing
+Excel – Data cleaning and preprocessing
 
 # Key Metrics
--Total Orders: 10K+
+-Total Orders: 10K
 
 -Average Delivery Time: 37.24 mins
 
