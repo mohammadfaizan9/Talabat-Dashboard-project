@@ -7,8 +7,11 @@ The dashboard provides insights into customer behavior, restaurant performance, 
  # Problem Statement 
  Food delivery platforms generate large amounts of data, but without proper analysis, it’s difficult to extract actionable insights.
 This project aims to:
+
 -Track performance metrics
+
 -Identify inefficiencies
+
 -Support data-driven business decisions
 
 # Tools Used 
